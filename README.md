@@ -5,6 +5,7 @@ This project is a landing page using some motion-framer animations. It is based 
 Design was create by One Week Wonders
 
 https://www.oneweekwonders.com/
+
 https://dribbble.com/shots/17625867-Metaversus-Metaverse-Landing-Page
 
 

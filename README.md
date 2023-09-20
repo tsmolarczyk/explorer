@@ -2,6 +2,8 @@
 
 This project is a landing page using some motion-framer animations. It is based on React, styled with Tailwind. 
 
+https://explorer-motion.vercel.app/
+
 Design was create by One Week Wonders
 
 https://www.oneweekwonders.com/

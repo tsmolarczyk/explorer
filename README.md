@@ -17,6 +17,11 @@ https://dribbble.com/shots/17625867-Metaversus-Metaverse-Landing-Page
 First, run the development server:
 
 ```bash
+
+npm install 
+#or
+yarn
+
 npm run dev
 # or
 yarn dev
